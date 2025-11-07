@@ -1,4 +1,4 @@
-# Batalha-_de_Gladiadores
+# Batalha_de_Gladiadores
 Uma projeto que simula uma batalha entre gladiadores, utilizando métodos de programa como POO, Orientada a Eventos, Estruturada, Procedural
 🏛️ Batalha de Gladiadores
 <p align="center"> <img src="https://cdn-icons-png.flaticon.com/512/742/742751.png" width="120" alt="Gladiador Icon"/> </p>

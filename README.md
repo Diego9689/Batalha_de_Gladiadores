@@ -71,7 +71,7 @@ No terminal:
 ```sh
 cd backend
 mvn spring-boot:run
-
+```
 
 ---
 
@@ -95,4 +95,5 @@ mvn spring-boot:run
 cd frontend
 npm install
 npm start
+```
 
